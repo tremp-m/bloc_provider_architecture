@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "45256806262",
+    "firebase_url": "https://blocproviderarchitecture.firebaseio.com",
+    "project_id": "blocproviderarchitecture",
+    "storage_bucket": "blocproviderarchitecture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45256806262:android:411d680af806e1008ef457",
+        "android_client_info": {
+          "package_name": "com.example.bloc_provider_architecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45256806262-3q2aaorr088v7caad2mjgg4s8ghomgho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCasDLHFpZSbZlQOq_OCraYjwaR2NGKBss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45256806262-3q2aaorr088v7caad2mjgg4s8ghomgho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
