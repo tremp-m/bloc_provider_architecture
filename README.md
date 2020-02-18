@@ -1,6 +1,6 @@
 # bloc_provider_architecture
 
-A new Flutter application.
+A Flutter demo application (BLoC, Provider).
 
 ## Getting Started
 
