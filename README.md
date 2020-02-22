@@ -1,6 +1,6 @@
 # bloc_provider_architecture
 
-A Flutter demo application (BLoC, Provider). For - https://habr.com/ru/sandbox/137940/
+A Flutter demo application (BLoC, Provider). For - https://habr.com/ru/post/489512
 
 ## Getting Started
 
